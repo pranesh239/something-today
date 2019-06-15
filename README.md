@@ -6,6 +6,9 @@
 Content that I liked. Saved using https://goo.gl/Wj595G 
 
 
+
+### June 16, 2019 
+- [2. First Timers Only - Github Open source contribution ](https://kentcdodds.com/blog/first-timers-only/) 
 ### June 15, 2019 
 - [1. What open source project should I contribute to?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) 
 ### June 14, 2019 
