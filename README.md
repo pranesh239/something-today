@@ -7,6 +7,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### June 17, 2019 
+- [Your First Polyfill](https://javascriptplayground.com/writing-javascript-polyfill/) 
 ### June 16, 2019 
 - [2. First Timers Only - Github Open source contribution ](https://kentcdodds.com/blog/first-timers-only/) 
 ### June 15, 2019 
