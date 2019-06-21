@@ -9,6 +9,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### June 21, 2019 
+- [How to Enable React Strict Mode](https://kentcdodds.com/blog/react-strict-mode) 
 ### June 19, 2019 
 - [CSS Specificity - DEV Community 👩‍💻👨‍💻](https://dev.to/emmawedekind/css-specificity-1kca) 
 ### June 17, 2019 
