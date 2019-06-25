@@ -10,6 +10,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### June 25, 2019 
+- [Learn git concepts, not commands - DEV Community 👩‍💻👨‍💻](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) 
 ### June 21, 2019 
 - [How to Enable React Strict Mode](https://kentcdodds.com/blog/react-strict-mode) 
 ### June 19, 2019 
