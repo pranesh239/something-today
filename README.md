@@ -12,6 +12,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### July 1, 2019 
+- [Closures: The JS Scope Hack - DEV Community 👩‍💻👨‍💻](https://dev.to/steelvoltage/closures-the-js-scope-hack-3365) 
 ### June 26, 2019 
 - [Overview - Google Chrome](https://developer.chrome.com/extensions/overview) 
 ### June 25, 2019 
