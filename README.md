@@ -17,6 +17,7 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### July 2, 2019 
 - [Why I Stopped Being Busy - Darius Foroux](https://dariusforoux.com/being-busy/) 
 - [Marking Required Fields in Forms](https://www.nngroup.com/articles/required-fields/?utm_source=Alertbox&utm_campaign=0cbe0e2b44-RequiredFields_intranetTrends_field_20190617&utm_medium=email&utm_term=0_7f29a2b335-0cbe0e2b44-40506889) 
+- [Why I Never Use Shallow Rendering](https://kentcdodds.com/blog/why-i-never-use-shallow-rendering) 
 ### July 1, 2019 
 - [Closures: The JS Scope Hack - DEV Community 👩‍💻👨‍💻](https://dev.to/steelvoltage/closures-the-js-scope-hack-3365) 
 ### June 26, 2019 
