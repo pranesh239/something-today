@@ -13,6 +13,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### July 2, 2019 
+- [Why I Stopped Being Busy - Darius Foroux](https://dariusforoux.com/being-busy/) 
 ### July 1, 2019 
 - [Closures: The JS Scope Hack - DEV Community 👩‍💻👨‍💻](https://dev.to/steelvoltage/closures-the-js-scope-hack-3365) 
 ### June 26, 2019 
