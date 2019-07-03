@@ -14,6 +14,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### July 3, 2019 
+- [9 Ways To Remove 🗑️ Elements From A JavaScript Array 📇[Examples]](https://love2dev.com/blog/javascript-remove-from-array/#remove-from-array-end) 
 ### July 2, 2019 
 - [Why I Stopped Being Busy - Darius Foroux](https://dariusforoux.com/being-busy/) 
 - [Marking Required Fields in Forms](https://www.nngroup.com/articles/required-fields/?utm_source=Alertbox&utm_campaign=0cbe0e2b44-RequiredFields_intranetTrends_field_20190617&utm_medium=email&utm_term=0_7f29a2b335-0cbe0e2b44-40506889) 
