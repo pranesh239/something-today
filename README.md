@@ -16,6 +16,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### July 6, 2019 
+- [Want to be a better developer? Take care of your sleep! - DEV Community 👩‍💻👨‍💻](https://dev.to/damcosset/want-to-be-a-better-developer-take-care-of-your-sleep-1def) 
 ### July 4, 2019 
 - [Write the Fibonacci sequence… in 4 different computational complexities!](https://medium.com/@johanna.fulghum/write-the-fibonacci-sequence-in-every-computational-complexity-9adf5ef12775) 
 ### July 3, 2019 
