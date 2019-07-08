@@ -17,6 +17,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### July 8, 2019 
+- [A Beginner’s Guide to GraphQL - DEV Community 👩‍💻👨‍💻](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj) 
 ### July 6, 2019 
 - [Want to be a better developer? Take care of your sleep! - DEV Community 👩‍💻👨‍💻](https://dev.to/damcosset/want-to-be-a-better-developer-take-care-of-your-sleep-1def) 
 ### July 4, 2019 
