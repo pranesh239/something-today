@@ -18,6 +18,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### July 10, 2019 
+- [5 Uses for the Spread Operator - DEV Community 👩‍💻👨‍💻](https://dev.to/laurieontech/5-uses-for-the-spread-operator-b9i) 
 ### July 8, 2019 
 - [A Beginner’s Guide to GraphQL - DEV Community 👩‍💻👨‍💻](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj) 
 ### July 6, 2019 
