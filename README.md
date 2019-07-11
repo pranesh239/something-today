@@ -22,6 +22,7 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### July 11, 2019 
 - [Adding ESlint to Your Project - DailyJS - Medium](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8) 
+- [Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript](https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21) 
 ### July 10, 2019 
 - [5 Uses for the Spread Operator - DEV Community 👩‍💻👨‍💻](https://dev.to/laurieontech/5-uses-for-the-spread-operator-b9i) 
 - [Introducing Object.fromEntries - DEV Community 👩‍💻👨‍💻](https://dev.to/laurieontech/introducing-object-fromentries-1d5l) 
