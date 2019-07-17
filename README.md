@@ -23,6 +23,7 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### July 18, 2019 
 - [New JavaScript ES2019 features you need to know! | Ultimate Courses™](https://ultimatecourses.com/blog/new-javascript-es2019-features-you-need-to-know#.XS8m6qlcMXA.twitter) 
+- [8 Habits For Beginning and Mid Level JavaScript Developers That Sabotage Your Future - DEV Community 👩‍💻👨‍💻](https://dev.to/jsmanifest/8-habits-for-beginning-and-mid-level-javascript-developers-that-sabotage-your-future-48b4) 
 ### July 11, 2019 
 - [Adding ESlint to Your Project - DailyJS - Medium](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8) 
 - [Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript](https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21) 
