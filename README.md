@@ -21,6 +21,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### July 25, 2019 
+- [ES6 Let, Const and the “Temporal Dead Zone” (TDZ) in Depth](https://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth) 
 ### July 18, 2019 
 - [New JavaScript ES2019 features you need to know! | Ultimate Courses™](https://ultimatecourses.com/blog/new-javascript-es2019-features-you-need-to-know#.XS8m6qlcMXA.twitter) 
 - [8 Habits For Beginning and Mid Level JavaScript Developers That Sabotage Your Future - DEV Community 👩‍💻👨‍💻](https://dev.to/jsmanifest/8-habits-for-beginning-and-mid-level-javascript-developers-that-sabotage-your-future-48b4) 
