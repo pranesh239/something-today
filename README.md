@@ -23,6 +23,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### July 28, 2019 
+- [React.js — Compound Components - Dane Sirois - Medium](https://medium.com/@Dane_s/react-js-compound-components-a6e54b5c9992) 
 ### July 27, 2019 
 - [Deep Merge Objects in JavaScript with Spread, Lodash, and Deepmerge from @chrisachard on @eggheadio](https://egghead.io/lessons/javascript-deep-merge-objects-in-javascript-with-spread-lodash-and-deepmerge?pl=merge-objects-in-javascript-34b172d4) 
 - [Accessing React State right after setting it - DEV Community 👩‍💻👨‍💻](https://dev.to/dance2die/accessing-react-state-right-after-setting-it-2kc8) 
