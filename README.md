@@ -25,6 +25,7 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### July 27, 2019 
 - [Deep Merge Objects in JavaScript with Spread, Lodash, and Deepmerge from @chrisachard on @eggheadio](https://egghead.io/lessons/javascript-deep-merge-objects-in-javascript-with-spread-lodash-and-deepmerge?pl=merge-objects-in-javascript-34b172d4) 
+- [Accessing React State right after setting it - DEV Community 👩‍💻👨‍💻](https://dev.to/dance2die/accessing-react-state-right-after-setting-it-2kc8) 
 ### July 25, 2019 
 - [ES6 Let, Const and the “Temporal Dead Zone” (TDZ) in Depth](https://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth) 
 - [Javascript Promise All Example | Promise.all() Tutorial](https://appdividend.com/2019/01/03/javascript-promise-all-example-promise-all-tutorial/) 
