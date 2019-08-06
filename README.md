@@ -25,6 +25,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### August 6, 2019 
+- [How to add a dynamic title on your React app - DEV Community 👩‍💻👨‍💻](https://dev.to/luispa/how-to-add-a-dynamic-title-on-your-react-app----3l0j) 
 ### July 31, 2019 
 - [Quick guide to React compound components - LogRocket Blog](https://blog.logrocket.com/guide-to-react-compound-components-9c4b3eb482e9/) 
 ### July 28, 2019 
