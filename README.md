@@ -26,6 +26,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### August 8, 2019 
+- [Simple JavaScript Theme Toggle - DEV Community 👩‍💻👨‍💻](https://dev.to/ryan_furrer/simple-javascript-theme-toggle-46ea) 
 ### August 6, 2019 
 - [How to add a dynamic title on your React app - DEV Community 👩‍💻👨‍💻](https://dev.to/luispa/how-to-add-a-dynamic-title-on-your-react-app----3l0j) 
 ### July 31, 2019 
