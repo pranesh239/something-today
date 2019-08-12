@@ -27,6 +27,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### August 12, 2019 
+- [A beginners' tutorial to Preact, without prior React knowledge (Intro) - DEV Community 👩‍💻👨‍💻](https://dev.to/solarliner/a-beginners-tutorial-to-preact-without-prior-react-knowledge-intro-go6) 
 ### August 8, 2019 
 - [Simple JavaScript Theme Toggle - DEV Community 👩‍💻👨‍💻](https://dev.to/ryan_furrer/simple-javascript-theme-toggle-46ea) 
 ### August 6, 2019 
