@@ -28,6 +28,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### August 15, 2019 
+- [I am a professional React developer, and I recently performed a code review of a stranger's code. Here's what I got. - DEV Community 👩‍💻👨‍💻](https://dev.to/bettercodingacademy/i-am-a-professional-react-developer-and-i-recently-performed-a-code-review-of-a-stranger-s-code-here-s-what-i-got-35j5) 
 ### August 12, 2019 
 - [A beginners' tutorial to Preact, without prior React knowledge (Intro) - DEV Community 👩‍💻👨‍💻](https://dev.to/solarliner/a-beginners-tutorial-to-preact-without-prior-react-knowledge-intro-go6) 
 ### August 8, 2019 
