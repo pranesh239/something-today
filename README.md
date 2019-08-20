@@ -29,6 +29,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### August 20, 2019 
+- [What Front-End Developer Skills Should You Focus on Learning for the Rest of 2019? - DEV Community 👩‍💻👨‍💻](https://dev.to/frontendmasters/what-front-end-developer-skills-should-you-focus-on-learning-for-the-rest-of-2019-10c5) 
 ### August 15, 2019 
 - [I am a professional React developer, and I recently performed a code review of a stranger's code. Here's what I got. - DEV Community 👩‍💻👨‍💻](https://dev.to/bettercodingacademy/i-am-a-professional-react-developer-and-i-recently-performed-a-code-review-of-a-stranger-s-code-here-s-what-i-got-35j5) 
 - [The Differing Perspectives on CSS-in-JS | CSS-Tricks](https://css-tricks.com/the-differing-perspectives-on-css-in-js/) 
