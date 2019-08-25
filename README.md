@@ -30,6 +30,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### August 25, 2019 
+- [Javascript Delete Operator Tutorial | Remove Property From Object](https://appdividend.com/2019/02/20/javascript-delete-operator-tutorial-remove-property-from-object/) 
 ### August 20, 2019 
 - [What Front-End Developer Skills Should You Focus on Learning for the Rest of 2019? - DEV Community 👩‍💻👨‍💻](https://dev.to/frontendmasters/what-front-end-developer-skills-should-you-focus-on-learning-for-the-rest-of-2019-10c5) 
 ### August 15, 2019 
