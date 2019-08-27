@@ -31,6 +31,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### August 27, 2019 
+- [Understanding Currying in JavaScript - Bits and Pieces](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339) 
 ### August 25, 2019 
 - [Javascript Delete Operator Tutorial | Remove Property From Object](https://appdividend.com/2019/02/20/javascript-delete-operator-tutorial-remove-property-from-object/) 
 - [Null Propagation Operator in JavaScript](https://ponyfoo.com/articles/null-propagation-operator) 
