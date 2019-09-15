@@ -32,6 +32,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### September 15, 2019 
+- [Git Hooks | Learn how to use pre-commit hooks, post-commit hooks, post-receive hooks, and more. | Matthew Hudson](https://githooks.com/) 
 ### August 27, 2019 
 - [Understanding Currying in JavaScript - Bits and Pieces](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339) 
 ### August 25, 2019 
