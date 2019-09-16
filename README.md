@@ -33,6 +33,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### September 16, 2019 
+- [Quirky Quirky JavaScript: Episode One – CodeKraft](https://abdulapopoola.com/2014/05/18/quirky-quirky-javascript-episode-one/) 
 ### September 15, 2019 
 - [Git Hooks | Learn how to use pre-commit hooks, post-commit hooks, post-receive hooks, and more. | Matthew Hudson](https://githooks.com/) 
 ### August 27, 2019 
