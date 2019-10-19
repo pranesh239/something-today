@@ -36,6 +36,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### October 19, 2019 
+- [Using babel 7 with node ](https://hackernoon.com/using-babel-7-with-node-7e401bc28b04) 
 ### October 1, 2019 
 - [Getting started with Node.js modules: require, exports, imports and beyond | Adrian Mejia Blog](https://adrianmejia.com/getting-started-with-node-js-modules-require-exports-imports-npm-and-beyond/) 
 ### September 17, 2019 
